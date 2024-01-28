@@ -1,6 +1,6 @@
 # Exception Example
 
-## How it works ?
+## How it works ?
   This program adds numbers and if the user enters negative number in B the exception will be thrown
 
 ## Dependencies
